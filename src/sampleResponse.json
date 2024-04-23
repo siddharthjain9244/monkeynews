@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 325,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "tips@androidcentral.com (Nickolas Diaz)",
+            "title": "A recent update just brought AV1 support to your Android phone",
+            "description": "Google confirmed that it has switched to a newer, more efficient AV1 decoder on Android.",
+            "url": "https://www.androidcentral.com/phones/googleconfirmssoftwarebasedav1decoderswitch",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/pYie5KfdbpWLoa2VYVNcvW120080.jpg",
+            "publishedAt": "20240420T00:13:26Z",
+            "content": "What you need to know\r\n<ul><li>Google confirms it has switched to VideoLAN's opensource libdav1d codec for AV1 video playback through its March 2024 Play Systems update.</li><li>The new codec is sai… [+2725 chars]"
+        },
+        {
+            "source": {
+                "id": "businessinsider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Sheryl Stillman)",
+            "title": "I've traveled over 10,000 miles on the open road — after technology failed me, I'll never make these 3 mistakes again",
+            "description": "After driving 10,000 miles around the US over the past few years, I've made travel mistakes and learned critical tech lessons the hard way.",
+            "url": "https://www.businessinsider.com/mistakestoavoidroadtripsfromsomeonedrovefar20244",
+            "urlToImage": "https://i.insider.com/661eba4b20b15f0ff4286d21?width=1200&format=jpeg",
+            "publishedAt": "20240420T10:18:02Z",
+            "content": "AI can plan travel itineraries and Apple AirTags can track luggage but tech and travel aren't always a foolproof combination when it comes to road trips.\r\nAfter driving 10,000 miles around the US ove… [+2520 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Yúbal Fernández",
+            "title": "Como configurar el móvil para que no te moleste por la noche cuando duermas",
+            "description": "Vamos a explicarte cómo configurar tu móvil para que no te moleste por la noche, y que así una llamada o un mensaje de texto no te despierte en mitad de la noche. Porque simplemente apagar el móvil o ponerlo en modo avión puede ser suficiente, pero también ha…",
+            "url": "https://www.xataka.com/basics/comoconfigurarmovilnotemolestenochecuandoduermas",
+            "urlToImage": "https://i.blogs.es/6b33b7/dormir/840_560.jpeg",
+            "publishedAt": "20240420T10:01:23Z",
+            "content": "Vamos a explicarte cómo configurar tu móvil para que no te moleste por la noche, y que así una llamada o un mensaje de texto no te despierte en mitad de la noche. Porque simplemente apagar el móvil o… [+8663 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Alejandro Alcolea",
+            "title": "Hubo un videojuego exclusivo de todas las consolas. Sus creadores se enfrentaron a Epic y acabaron en la trituradora",
+            "description": "Los videojuegos son relativamente jóvenes. Sí, ha llovido desde los primeros videojuegos de la historia como 'Tennis for Two' o 'SpaceWar' y el medio ha evolucionado muchísimo en pocos años, pasando de ser un mero entretenimiento a una de las manifestaciones …",
+            "url": "https://www.xataka.com/videojuegos/hubovideojuegoexclusivotodasconsolassuscreadoresseenfrentaronaepicacabarontrituradora",
+            "urlToImage": "https://i.blogs.es/4a26ba/toohuman/840_560.jpeg",
+            "publishedAt": "20240420T10:31:23Z",
+            "content": "Los videojuegos son relativamente jóvenes. Sí, ha llovido desde los primeros videojuegos de la historia como 'Tennis for Two' o 'SpaceWar' y el medio ha evolucionado muchísimo en pocos años, pasando … [+10534 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daringfireball.net"
+            },
+            "author": "John Gruber",
+            "title": "★ Face the Critic: Ian Betteridge Edition",
+            "description": "To sum up my stance: Tracking is wrong when it’s done without consent, and when users have no idea what’s being tracked or how it’s being used. Tracking is fine when it’s done with consent, and users know what’s being tracked and how it’s being used.",
+            "url": "https://daringfireball.net/2024/04/face_the_critic_ian_betteridge_edition",
+            "urlToImage": "https://daringfireball.net/graphics/dfwidecard.png",
+            "publishedAt": "20240420T00:53:41Z",
+            "content": "Ian Betteridge, quoting yours truly on nonconsensual tracking back in 2020 and then my piece yesterday on the EDPB issuing an opinion against Metas Pay or OK model in the EU:\r\nI wonder what happened… [+5304 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Tim Keeney",
+            "title": "Sounders vs Vancouver live stream: Can you watch for free?",
+            "description": "The Seattle Sounders and Vancouver Whitecaps clash in a Cascadia Cup rivalry showdown today, and we have everything you need to know to watch a live stream.",
+            "url": "https://www.digitaltrends.com/movies/soundersvsvancouverlivestreamapril2024/",
+            "urlToImage": "https://www.digitaltrends.com/wpcontent/uploads/2017/08/soccergoalgetty8417.jpg?resize=1200%2C630&p=1",
+            "publishedAt": "20240420T09:00:51Z",
+            "content": "The Seattle Sounders and Vancouver Whitecaps clash in a Cascadia Cup showdown tonight at Lumen Field. The Western Conference foes are at opposite ends of the table currently, with Vancouver sitting s… [+2143 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Bradley Chambers",
+            "title": "Apple @ Work: If your company isn’t using Nudge, it’s time to change that",
+            "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professionalgrade platform all the solutions necessary to seamlessly and automatically deploy, manage & protect App…",
+            "url": "https://9to5mac.com/2024/04/20/nudgemacos/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wpcontent/uploads/sites/6/2024/03/NudgemacOS.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "20240420T11:00:00Z",
+            "content": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professionalgrade platform all the solutions necessary … [+3642 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Genbeta.com"
+            },
+            "author": "Eva Rodriguez de Luis",
+            "title": "No me puedo permitir tener Netflix, Amazon, Disney… Este es mi método para saber cuál cancelar",
+            "description": "Desde hace un tiempo mi vida ha cambiado y me toca apretarme el cinturón. Esto supone tener que decir adiós a gastos superfluos y también evitar en la medida de lo posible la inercia, es decir, mantener suscripciones porque se me olvidan o por si acaso y sí t…",
+            "url": "https://www.genbeta.com/afondo/nomepuedopermitirtenernetflixamazondisneyestemimetodoparasabercualcancelar",
+            "urlToImage": "https://i.blogs.es/5512db/img_5873/840_560.jpeg",
+            "publishedAt": "20240420T10:01:23Z",
+            "content": "Desde hace un tiempo mi vida ha cambiado y me toca apretarme el cinturón. Esto supone tener que decir adiós a gastos superfluos y también evitar en la medida de lo posible la inercia, es decir, mante… [+4954 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Wikihow.com"
+            },
+            "author": "Naseem Speach",
+            "title": "How to Backup iPhone to External Hard Drive",
+            "description": "Back up your iPhone to an external hard drive using a Mac, Windows PC, and more\nDo you need to back up your iPhone to an external hard drive? It's always a good idea to back up your iPhone in case something happens. Usually, when you back up your iPhone using…",
+            "url": "https://www.wikihow.com/BackupiPhonetoExternalHardDrive",
+            "urlToImage": "https://www.wikihow.com/images/1/18/BackupiPhonetoExternalHardDriveStep41.jpg",
+            "publishedAt": "20240420T00:00:00Z",
+            "content": "This article was written by Naseem Speach and by wikiHow staff writer, Nicole Levine, MFA. Naseem Speach is a Tech Video Producer based in Los Angeles, California. Naseem started his tech reviews You… [+387 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Journal du geek"
+            },
+            "author": "Thomas Estimbre",
+            "title": "Kishi Ultra : la manette mobile ultime de Razer pour les joueurs",
+            "description": "Razer vient d'officialiser une nouvelle variante de sa manette mobile, la Kishi Ultra. L'ambition est d'en faire la nouvelle référence sur smartphone, tablette... et même PC ?",
+            "url": "https://www.journaldugeek.com/2024/04/20/kishiultralamanettemobileultimederazerpourlesjoueurs/",
+            "urlToImage": "https://www.journaldugeek.com/app/uploads/2024/04/KishiUltra2024Lifestyle.jpg",
+            "publishedAt": "20240420T07:34:20Z",
+            "content": "Incontournable dans l’univers du gaming, Razer propose de nombreux périphériques à destination des joueurs. Le serpent à trois têtes n’a pas connu le succès escompté avec ses smartphones, mais il res… [+2480 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Journal du geek"
+            },
+            "author": "Journal du Geek",
+            "title": "Voici une astuce simple pour rendre votre vieux Mac rapide et performant",
+            "description": "Bon nombre d'utilisateurs se débarrassent de leur Mac, croyant que ce dernier n'est plus bon à rien. Cela dit, dans la majorité des cas, il est possible de leur redonner une seconde vie. C'est le rôle de la Washing Machine, un outil puissant qui peut booster …",
+            "url": "https://www.journaldugeek.com/bonplan/voiciuneastucesimpleetrapidepourrendrevotrevieuxmacrapideetperformant/",
+            "urlToImage": "https://www.journaldugeek.com/app/uploads/2024/03/MacBook2.jpg",
+            "publishedAt": "20240420T05:17:37Z",
+            "content": "Qu’il s’agisse des ordinateurs fonctionnant sous MacOS ou ceux embarquant Windows, tous ont à un moment donné, tendance à perdre de leur vitesse. Cela n’est pas une surprise et c’est d’ailleurs tout … [+4048 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Applesfera.com"
+            },
+            "author": "Pedro Aznar",
+            "title": "Llevo 18 años hablando sobre el mundo Apple. Esta es la única película y la única serie que recomiendo para entenderla",
+            "description": "Quizás me llamó la atención porque su nombre me recordaba a ese placer culpable que siento al ver \"Hackers\" (Iain Softley, 1995). Una película algo distópica y extravagante con la que quisieron hacer cool la seguridad informática  cuando en realidad es una s…",
+            "url": "https://www.applesfera.com/apple1/llevo18anoshablandomundoappleestaunicapeliculaunicaseriequerecomiendoparaentenderla",
+            "urlToImage": "https://i.blogs.es/ae2c2b/lamejorpeliculasobreappleystevejobs670/840_560.jpeg",
+            "publishedAt": "20240420T10:05:10Z",
+            "content": "Quizás me llamó la atención porque su nombre me recordaba a ese placer culpable que siento al ver \"Hackers\" (Iain Softley, 1995). Una película algo distópica y extravagante con la que quisieron hacer… [+9736 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Applesfera.com"
+            },
+            "author": "Isra Fdez",
+            "title": "¿Un iPhone en una máquina expendedora? Apple ya inventó algo similar y la gente hacía cola para comprarlo",
+            "description": "Imagínate la situación. Estás en el aeropuerto haciendo escala desde Londres. Ya ni recuerdas qué hora era cuando saliste desde España. Tienes las piernas entumecidas, pero el cuerpo te pide rock. Te acercas a una iPod Vending Machine y sacas unos AirPods y u…",
+            "url": "https://www.applesfera.com/ipod/iphonemaquinaexpendedorasappleinventoalgosimilargentecolaparacomprarlo",
+            "urlToImage": "https://i.blogs.es/dbe74a/tiendaiphone/840_560.jpeg",
+            "publishedAt": "20240420T11:01:24Z",
+            "content": "Imagínate la situación. Estás en el aeropuerto haciendo escala desde Londres. Ya ni recuerdas qué hora era cuando saliste desde España. Tienes las piernas entumecidas, pero el cuerpo te pide rock. Te… [+3680 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Applesfera.com"
+            },
+            "author": "Guille Lomener",
+            "title": "Este chico está ganando más de 100.000 dólares al mes utilizando un Macbook y una IA gratis. Este es su método",
+            "description": "La vida digital nos ha permitido llegar hasta donde nunca hubiéramos pensado. Con puestos de trabajo adaptados y en continua transformación, hay un sector en concreto de la población que se ha visto especialmente favorecido gracias a la tecnología. Ya sea con…",
+            "url": "https://www.applesfera.com/curiosidades/estechicoestaganando100000dolaresalmesutilizandomacbookiagratisestesumetodo",
+            "urlToImage": "https://i.blogs.es/a465ba/2/840_560.jpeg",
+            "publishedAt": "20240420T09:01:24Z",
+            "content": "La vida digital nos ha permitido llegar hasta donde nunca hubiéramos pensado. Con puestos de trabajo adaptados y en continua transformación, hay un sector en concreto de la población que se ha visto … [+5001 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Golem.de"
+            },
+            "author": "Daniel Ziegener",
+            "title": "Delta im Alt Store: Endlich lässt sich Zelda auf dem iPhone spielen  per Umweg",
+            "description": "Emulatoren für Retrogames waren auf iOS lange nicht erwünscht. Nun lassen sich erstmals ROMs mit Apples Erlaubnis auf das iPhone laden. Ein Handson von Daniel Ziegener (Emulator, Apple)",
+            "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fdeltaimaltstoreendlichlaesstsichzeldaaufdemiphonespielenperumweg2404184345.html&referer=https%3A%2F%2Ft.co%2F4e9c4e3025",
+            "urlToImage": null,
+            "publishedAt": "20240420T07:00:02Z",
+            "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
+        },
+        {
+            "source": {
+                "id": "diezeit",
+                "name": "Die Zeit"
+            },
+            "author": "ZEIT ONLINE: Games  Henrik Oerding",
+            "title": "Alternativer App Store: So spielen Sie GameBoySpiele auf Ihrem iPhone",
+            "description": "Apple erlaubt alternative App Stores auf dem iPhone, nun ist der erste gestartet. Und das mit einer der besten Apps seit Langem: einem Game Boy fürs iPhone.",
+            "url": "https://www.zeit.de/digital/games/202404/alternativerappstorealtstorepalapple",
+            "urlToImage": "https://img.zeit.de/digital/games/202404/appleappstoreiphonegameboybild/wide__1300x731",
+            "publishedAt": "20240420T08:23:29Z",
+            "content": "Um die wichtigste Frage für alle Kinder der Neunziger gleich am Anfang\r\nzu beantworten: Ja, man kann nun Pokémon auf dem iPhone spielen. Das dürfte zwar\r\nnicht legal sein es ist aber nun so einfach m… [+511 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "iMore"
+            },
+            "author": "daryl.baxter@futurenet.com (Daryl Baxter)",
+            "title": "Nintendo emulators on the App Store are a far cry from the heady days of Miyamoto at an iPhone launch",
+            "description": "In 2016, Nintendo announced Super Mario Run for iPhone. Eight years later, that feels like a different 'World 11'.",
+            "url": "https://www.imore.com/apple/nintendoemulatorsontheappstoreareafarcryfromtheheadydaysofmiyamotoataniphonelaunch",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/8D7iBNhRTvErqpmpjR4kt9120080.jpg",
+            "publishedAt": "20240420T11:01:00Z",
+            "content": "Way back in 2016 at the iPhone 7 event, Tim Cook brought Nintendo game designer Shigeru Miyamoto out on the stage, and the audience lost their minds — myself included.\r\nBack then, it had long been ru… [+5333 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vox"
+            },
+            "author": "Sean Illing",
+            "title": "Will AI mean the end of liberal democracy?",
+            "description": "Fareed Zakaria on the age of revolution.",
+            "url": "https://www.vox.com/futureperfect/24130926/fareedzakariaainationalismliberaldemocracyindustrialrevolution",
+            "urlToImage": "https://cdn.voxcdn.com/thumbor/ZC8_7nVchbMgO4k87pkJd8wuLLc=/0x0:2518x1318/fitin/1200x630/cdn.voxcdn.com/uploads/chorus_asset/file/25406582/682767972.jpg",
+            "publishedAt": "20240420T11:00:00Z",
+            "content": "Journalist Fareed Zakaria speaks during the Ellis Island Medals of Honor ceremony at the Ellis Island Honors Society meeting in New York on May 13, 2017. | Kena Betancur/AFP via Getty Images\r\n\n \n\n Fa… [+11470 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Hartley Charlton",
+            "title": "Apple Announced the 24Inch iMac Three Years Ago Today",
+            "description": "Today marks the threeyear anniversary of Apple's announcement of the 24inch iMac, a transformative redesign featuring the first integration of Apple silicon in the product line.\n\n\n\n\n\nApple unveiled the new 24inch ‌iMac‌ on April 20, 2021, almost nine years…",
+            "url": "https://www.macrumors.com/2024/04/20/24inchimacthreeyearsagotoday/",
+            "urlToImage": "https://images.macrumors.com/t/zRs92qrO6zKhk3w76KtbYsY_3Xs=/1600x/articlenew/2024/01/iMac24AppleNewsroomGraybg.jpg",
+            "publishedAt": "20240420T11:13:54Z",
+            "content": "Today marks the threeyear anniversary of Apple's announcement of the 24inch iMac, a transformative redesign featuring the first integration of Apple silicon in the product line.\r\nApple unveiled the… [+1425 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xatakamovil.com"
+            },
+            "author": "plokiko",
+            "title": "Telefónica celebra su centenario y da pistas de su estrategia de cara a los próximos 100 años",
+            "description": "Telefónica está de celebración por su 100 cumpleaños, no solo recordándonos los principales hitos conseguidos a lo largo de su historia, sino que también está ideando cómo quiere ser los próximos 100 años.\n<! BREAK 1 >\nJosé María Álvarez Pallete, actual C…",
+            "url": "https://www.xatakamovil.com/movistar/telefonicacelebrasucentenariodapistassuestrategiacaraaproximos100anos",
+            "urlToImage": "https://i.blogs.es/d62867/plantillaxataka29/840_560.jpeg",
+            "publishedAt": "20240420T08:01:22Z",
+            "content": "Telefónica está de celebración por su 100 cumpleaños, no solo recordándonos los principales hitos conseguidos a lo largo de su historia, sino que también está ideando cómo quiere ser los próximos 100… [+3884 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Caschys Blog"
+            },
+            "author": "Mike Leitner",
+            "title": "Canalys: SmartphoneMarkt startet stark im ersten Quartal",
+            "description": "Laut den neuesten Forschungsergebnissen von Canalys ist der weltweite SmartphoneMarkt im ersten Quartal 2024 um 11 % gewachsen. Samsung eroberte dabei mit einem Anteil von 20 % den Spitzenplatz zurück, wahrscheinlich verursacht durch die Einführung von Galax…",
+            "url": "https://stadtbremerhaven.de/canalyssmartphonemarktstartetstarkimerstenquartal/",
+            "urlToImage": "https://stadtbremerhaven.de/wpcontent/uploads/2024/04/IMG_2579.jpeg",
+            "publishedAt": "20240420T04:30:06Z",
+            "content": "Laut den neuesten Forschungsergebnissen von Canalys ist der weltweite SmartphoneMarkt im ersten Quartal 2024 um 11 % gewachsen. Samsung eroberte dabei mit einem Anteil von 20 % den Spitzenplatz zurü… [+1115 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Frandroid"
+            },
+            "author": "Clément Gareau",
+            "title": "Quels modèles d’AirPods choisir en 2024 ? Notre sélection",
+            "description": "Souvent imités, mais jamais égalés, leS AirPods d'Apple ne sont pas si nombreux. Toutefois, il existe plusieurs appareils audio Apple différents portant cette nomenclature. Vous ne savez quel AirPods choisir ? Suivez notre guide !",
+            "url": "https://www.frandroid.com/guidedachat/1995260_quelsmodeledairpodschoisirnotreselection",
+            "urlToImage": "https://images.frandroid.com/wpcontent/uploads/2024/04/quelsairpodschoisir.jpg",
+            "publishedAt": "20240420T08:00:47Z",
+            "content": "Souvent imités, mais jamais égalés, leS AirPods d'Apple ne sont pas si nombreux. Toutefois, il existe plusieurs appareils audio Apple différents portant cette nomenclature. Vous ne savez quel AirPods… [+9020 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ifanr.com"
+            },
+            "author": "苏伟鸿",
+            "title": "早报|机构预测华为今年重回国内手机市场第一/美团 CEO 点评理想 L6/12.9 英寸 iPad Air 或搭载 miniLED 屏幕",
+            "description": "· 苹果回收商私自将报废 iPhone 销往中国\n· 百度智能云宣布国内首家支持 Llama3 全系列训练推理\n· Google 整合 Android 和硬件部门，致力 AI 体验#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n爱范儿 |\n原文链接 ·\n查看评论 ·\n新浪微博",
+            "url": "https://www.ifanr.com/1582222",
+            "urlToImage": "https://s3.ifanr.com/images/ep/coverimages/na_han_cover.jpg",
+            "publishedAt": "20240420T01:00:18Z",
+            "content": "iPhone \r\nGEEP \r\n GEEP 53 iPhone2.5 iPad 1.9 GEEP \r\n GEEP 10 iPhone \r\n GEEP\r\n Llama3 \r\nMeta Llama 3 8B 70B \r\n Llama3 \r\n ModelBuilder 79 \r\n CEO \r\nGoogle Android AI \r\nGoogle Google Pixel AndroidChromeCh… [+1340 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GSMArena.com"
+            },
+            "author": "Vlad",
+            "title": "Huawei Watch Fit 3 looks just like an Apple Watch",
+            "description": "A lot of people will consider any nonround smartwatch inspired by the Apple Watch, regardless of how close the design actually is aside from the rectangularish shape. And even if something is inspired by something else, it's still pretty easy to distinguish…",
+            "url": "https://www.gsmarena.com/huawei_watch_fit_3_looks_just_like_an_apple_watchnews62530.php",
+            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/04/huaweiwatchfit3leak/952x498w6/gsmarena_000.jpg",
+            "publishedAt": "20240420T00:39:01Z",
+            "content": "A lot of people will consider any nonround smartwatch inspired by the Apple Watch, regardless of how close the design actually is aside from the rectangularish shape. And even if something is inspi… [+1472 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GSMArena.com"
+            },
+            "author": "Vlad",
+            "title": "European Commission to approve Apple's opening up of iPhone taptopay to third parties in May",
+            "description": "iOS 17.4 came out last month with monumental changes for iPhone owners in the EU, including the ability to use third party app stores, and pay for apps and services outside of Apple's App Store.\n\nThis was made possible by force  namely, the European Digital …",
+            "url": "https://www.gsmarena.com/european_commission_to_approve_apples_opening_up_of_iphone_taptopay_to_third_parties_in_maynews62532.php",
+            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/04/ecappletaptopayagreement/952x498w6/gsmarena_000.jpg",
+            "publishedAt": "20240420T02:35:01Z",
+            "content": "iOS 17.4 came out last month with monumental changes for iPhone owners in the EU, including the ability to use third party app stores, and pay for apps and services outside of Apple's App Store.\r\nThi… [+1192 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "La Vanguardia"
+            },
+            "author": "Fran Besora",
+            "title": "AltStore: dónde descargar y cómo se usa la primera tienda de apps alternativa para iPhone",
+            "description": "Vamos a contarte dónde y cómo se descarga la AltStore, la nueva tienda alternativa oficial al App Store. Una tienda que por el momento cuenta con dos aplicaciones, el emulador de juegos Delta y Clip, un gestor para el portapapeles de iPhone que está constante…",
+            "url": "https://www.lavanguardia.com/andro4all/apple/altstoredondedescargarycomoseusalaprimeratiendadeappsalternativaparaiphone",
+            "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/04/alstoreportada1.jpg?width=1200",
+            "publishedAt": "20240420T07:01:40Z",
+            "content": "La AltStore ya está disponible\r\nVamos a contarte dónde y cómo se descarga la AltStore, la nueva tienda alternativa oficial al App Store. Una tienda que por el momento cuenta con dos aplicaciones, el … [+2870 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "La Vanguardia"
+            },
+            "author": "Beatriz Alcántara",
+            "title": "El altavoz Bluetooth que yo me compraría para casa: calidad de sonido, potencia brutal y el diseño más bonito",
+            "description": "Después de haber analizado el JBL Authentics 500 durante unas semanas, este es el altavoz Bluetooth que más recomiendo para aquellos que buscan la mejor calidad. El dispositivo de JBL me fascinó a todos los niveles y, sin duda, es el que yo me compraría para …",
+            "url": "https://www.lavanguardia.com/andro4all/ofertas/elaltavozbluetoothqueyomecomprariaparacasacalidaddesonidopotenciabrutalyeldisenomasbonito",
+            "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/02/vistalateralauthentics500.jpg?width=1200",
+            "publishedAt": "20240420T10:03:20Z",
+            "content": "El diseño de este altavoz JBL es uno de los motivos por los que lo compraría para casa / Fotografía de Beatriz Alcántara Gil\r\nDespués de haber analizado el JBL Authentics 500 durante unas semanas, es… [+4096 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "La Vanguardia"
+            },
+            "author": "David Freire",
+            "title": "Samsung Galaxy S24 y Galaxy S24+, análisis: los hermanos pequeños del S24 Ultra rozan la excelencia",
+            "description": "Un año más, fiel a su cita con los entusiastas de la marca, Samsung ha lanzado su nueva generación de flagships premium, en la cual el gran protagonista es un Samsung Galaxy S24 Ultra del que podemos asegurar, tras analizarlo a fondo, que ha mejorado las pres…",
+            "url": "https://www.lavanguardia.com/andro4all/samsunggalaxys/samsunggalaxys24ygalaxys24analisisloshermanospequenosdels24ultrarozanlaexcelencia",
+            "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/04/portadafinal.1713195007.7628.jpg?width=1200",
+            "publishedAt": "20240420T09:15:44Z",
+            "content": "La parte trasera de los Samsung Galaxy S24 y Galaxy S24+ es prácticamente idéntica, salvo por la diferencia de tamaño de ambos terminales / Fotografía de Rubén Ulloa\r\nUn año más, fiel a su cita con l… [+30571 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nextpit.de"
+            },
+            "author": "Edwin Kee",
+            "title": "Schnell handeln: Diese iOS und AndroidApps sind kurze Zeit kostenlos",
+            "description": "Seid Ihr pleite? Nein, Ihr könnt diese iPhone oder AndroidApps in diesen zeitlich begrenzten Angeboten kostenlos bekommen. Probiert sie noch heute aus!",
+            "url": "https://www.nextpit.de/kostenloseapps20240216",
+            "urlToImage": "https://fscl01.fonpit.de/userfiles/7687254/image/NextPit_Apps.jpg",
+            "publishedAt": "20240420T08:00:01Z",
+            "content": "Wir versuchen immer, Spiele zu entdecken, die keine finanziellen Betrügereien oder Datenschutzfallen enthalten, aber im Gegensatz zu unseren Top 5 Apps der Woche, die einmal pro Woche veröffentlicht … [+5072 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "Reuters",
+            "title": "Apple’s offer to open up tapandgo tech to be approved by EU next month",
+            "description": "Apple's tapandgo technology uses nearfield communication, or NFC, allows for contactless payments with mobile wallets.",
+            "url": "https://indianexpress.com/article/technology/technewstechnology/appletapandgotecheuapproval9280825/",
+            "urlToImage": "https://images.indianexpress.com/2023/04/Apple.jpg",
+            "publishedAt": "20240420T05:03:53Z",
+            "content": "Apple’s offer to open its tapandgo mobile payments system to rivals is set to be approved by EU antitrust regulators as soon as next month after it tweaked some of the terms, people familiar with t… [+1583 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "Anil Sasi",
+            "title": "Musk set to arrive: potential winwin for Tesla and India, some challenges too",
+            "description": "Musk’s India visit comes as his flagship company Tesla goes through some difficulties, with sobering sales numbers resulting in falling stock market valuations.",
+            "url": "https://indianexpress.com/article/explained/explainedeconomics/musksettoarrivepotentialwinwinforteslaandindiasomechallengestoo9280347/",
+            "urlToImage": "https://images.indianexpress.com/2024/04/elonm.jpg",
+            "publishedAt": "20240420T01:15:24Z",
+            "content": "On his visit to India over the weekend, Tesla Inc. CEO Elon Musk could make a pledge to pump more than $2 billion into a car manufacturing facility in the country, and make a statement on a longerte… [+4929 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nextpit.de"
+            },
+            "author": "Jade Bryan",
+            "title": "So einfach wird die Bedienung des Apple HomePod 3",
+            "description": "Eine wichtige Komponente von Apples kommendem HomePod 3Lautsprecher könnte abgebildet worden sein, was die TouchscreenFunktion bestätigt.",
+            "url": "https://www.nextpit.de/schluesselkomponentedesapplehomepod3geleakt",
+            "urlToImage": "https://fscl01.fonpit.de/userfiles/7687254/image/Apple_HomePod_2/NextPit_Apple_HomePod_2_2.jpg",
+            "publishedAt": "20240420T06:00:01Z",
+            "content": "Auf X hat ein AppleEnthusiast und Sammler ein Bild der DisplayAbdeckung veröffentlicht, die angeblich zu einem Apple HomePod Lautsprecher mit Touchscreen gehört. Auf dem Bild sieht es so aus, als o… [+1944 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DIE WELT"
+            },
+            "author": "Moritz Seyffarth, Nando Sommerfeldt",
+            "title": "Die Wahrheit über GenZ und die richtige GehaltsTaktik",
+            "description": "In dieser Samstagsfolge von „Alles auf Aktien“ reden wir mit einer KarriereKennerin. Sie ist CoCEO von Kienbaum und weiß, was und wen die großen Konzerne und kleinen Firmen am Jobmarkt suchen. Besonders spannend ist ihr Blick auf die Generation Z.",
+            "url": "https://www.welt.de/podcasts/allesaufaktien/article251112994/BoersenPodcastDieWahrheitueberGenZunddierichtigeGehaltsTaktik.html",
+            "urlToImage": "https://img.welt.de/img/podcasts/allesaufaktien/mobile246632932/1561351677ci16x9w1200/NandoMoritzDWOPodcastTeaserAllesAufAktienNandoMoritzjpg.jpg",
+            "publishedAt": "20240420T03:02:06Z",
+            "content": "Was möchte und kann die Jugend wirklich? Was ist dran am FaulundforderndKlischee? Unser Gast verrät, was Headhunter wollen, wie sie ticken und gibt Lifehacks zur Gehaltsverhandlung und dem perfekt… [+403 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DIE WELT"
+            },
+            "author": "Joel Wille",
+            "title": "Vom Blitzwürfel zum Blauen Heinrich – diese alten Dinge solltest du kennen",
+            "description": "Der „Blaue Heinrich“ war damals genial, heute kennen solche Erfindungen nur noch die wenigsten. Dabei offenbaren ihre Funktionen tiefe Einblicke in das Leben von früher. 7 nützliche Dinge, die aus unserem Alltag verschwunden sind. Kennst du sie noch?",
+            "url": "https://www.welt.de/kmpkt/article249945362/NostalgieQuiz7alteDingewofuerbenutztemansievorueber50Jahren.html",
+            "urlToImage": "https://img.welt.de/img/kmpkt/mobile251083478/1171350947ci16x9w1200/LandwirtschaftSenseschaerfen.jpg",
+            "publishedAt": "20240420T07:41:33Z",
+            "content": "Weniger als drei Fehler und du lebst vielleicht schon etwas länger. Dann schreib gern dein biblisches Geburtsjahr in die Kommentare!\r\nAha! Zehn Minuten AlltagsWissen ist der WissensPodcast von WELT… [+219 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Numerama"
+            },
+            "author": "Nicolas Lellouche",
+            "title": "Les jeux PlayStation et Wii sur iPhone : l’émulation estelle la nouvelle arme d’Apple ?",
+            "description": "Après Delta pour les jeux Nintendo, l'émulateur Provenance, qui supporte de très nombreuses plateformes, prépare son arrivée officielle sur l'App Store. En plus de l'iPhone, il mise sur l'Apple TV pour étendre sa notoriété.",
+            "url": "https://www.numerama.com/tech/1730214lesjeuxplaystationetwiisuriphonelemulationestellelanouvellearmedapple.html",
+            "urlToImage": "https://www.numerama.com/wpcontent/uploads/2024/04/provenanceappletv.jpg",
+            "publishedAt": "20240420T06:03:00Z",
+            "content": "Après Delta pour les jeux Nintendo, l’émulateur Provenance, qui supporte de très nombreuses plateformes, prépare son arrivée officielle sur l’App Store. En plus de l’iPhone, il mise sur l’Apple TV po… [+3725 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techbang.com"
+            },
+            "author": "cnBeta",
+            "title": "Apple Pencil 3 的「擠壓手勢」可能不只一種，還可能使用可更換的磁性筆尖",
+            "description": "Apple Pencil 3 可能可以用多種方式擠壓手勢控制\n傳聞中Apple Pencil 3 的擠壓手勢可能提供不止一種功能，與此同時這款手寫筆可能會支援不止一種手勢。 \n日前開發者在iPadOS 17.5.1 測試版程式碼中，發現一項名為「Squzze」（擠壓）動作手勢功能，推測這個功能可能將會在未來的Apple Pencil 3 上面推出，透過擠壓感測動作的手勢操控功能。\nApple Pencil 3將新增壓力感測機制\n據推測，新款的Apple Pencil 3表面可能會有壓力感測的機制，用戶透過按下Ap…",
+            "url": "https://www.techbang.com/posts/114487applepencil3maybeabletosqueezegesturecontrolina",
+            "urlToImage": "https://cdn1.techbang.com/system/excerpt_images/114487/original/0cc19db9b728e934c0f1cb450afb4691.jpg?1712891636",
+            "publishedAt": "20240420T07:30:00Z",
+            "content": "Apple Pencil 3  \r\niPadOS 17.5.1 SquzzeApple Pencil 3 \r\nApple Pencil 3Apple Pencil 3\r\nApple Pencil 2Apple Pencil 2\r\niMore\r\n Apple Pencil Apple Pencil \r\n Magic Mouse \r\n iPad Pro iPad Air Apple Pencil \r… [+81 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techbang.com"
+            },
+            "author": "ycr",
+            "title": "friDay購物母親節優惠！全站最高回饋 21%，滿額再抽整單「全額回饋」",
+            "description": "母親節即將來臨，即日起至5月12日，在 friDay購物消費滿8,000 元，就有機會抽中整單金額回饋，全站最高再回饋21%；買遠傳空機，獨享原廠保固與門市服務2大保證，再送影音暢看影劇14天！母親節即將來臨，該怎麼為平日辛苦的媽媽、老婆準備母親節禮物？friDay購物精選推薦三大類好禮，絕對讓你送到媽咪心坎裡。且即日起至 5 月 12 日前，在 friDay 購物消費滿 8,000 元，就有機會抽中整單金額回饋或遠傳幣等大獎，全站最高再回饋 21%；買遠傳空機，獨享原廠保固與門市服務 2 大保證，再送影音暢看影…",
+            "url": "https://www.techbang.com/posts/114660fridayshoppingmothersdayofferthehighestfeedbackonthe",
+            "urlToImage": "https://cdn2.techbang.com/system/excerpt_images/114660/original/9c5c04fd870271a8d6d30e98d7cfe5fa.jpg?1713350728",
+            "publishedAt": "20240420T00:00:00Z",
+            "content": "friDay 5 12 friDay 8,000 21% 2 14 \r\nGARMIN Lily 2 SAMSUNG Galaxy Fit3 R390 SAMSUNG Galaxy A558G/256G 990 2680 1500 \r\nTAKASHIMA M9200\r\n100ml 100ml\r\n 2 14 \r\nApple iPhone 15 Pro Max 256G 41,757 Redmi N… [+93 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nakedcapitalism.com"
+            },
+            "author": "Yves Smith",
+            "title": "Boeing and Baltimore Bridge Scandals: Monopolization and Criminal Negligence?",
+            "description": "On how recent administrations enabled Boeing’s industry takeover and covered up safety deficiencies at Boeing and in the shipping industry.",
+            "url": "https://www.nakedcapitalism.com/2024/04/boeingandbaltimorebridgescandalsmonopolizationandcriminalnegligence.html",
+            "urlToImage": null,
+            "publishedAt": "20240420T07:42:50Z",
+            "content": "Yves here. Please applaud theAnalysis.news and its guest Katya Schwenk of The Lever, for looking for higherorder causes of frontpageheadlinesgarnering examples of US safety dereliction of duty, a… [+25635 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Jacob Kienlen",
+            "title": "The 5 Best Disney+ Alternatives With Free Trials",
+            "description": "Have you tried all of these already?",
+            "url": "https://www.ign.com/articles/bestdisneyplusalternatives",
+            "urlToImage": "https://assetsprd.ignimgs.com/2023/09/10/disneypluslogobackground16601651136331694375348278.jpg?width=1280",
+            "publishedAt": "20240420T02:30:00Z",
+            "content": "The streaming service that retains the streaming rights to an abundance of multimillion dollar movie franchises, Disney+ came late to the game but towers over much of the competition. Home to Marvel… [+6035 chars]"
+        },
+        {
+            "source": {
+                "id": "ilsole24ore",
+                "name": "Il Sole 24 Ore"
+            },
+            "author": "di Biagio Simonetta",
+            "title": "Gelata sulla domanda di chip, prime tensioni da Tsmc a Nvidia",
+            "description": "Dopo il rally trainato dai prodotti per l’intelligenza artificiale, nelle ultime tre settimane i big cadono in Borsa: il colosso taiwanese allarma i mercati e affossa il comparto. Nvidia perde il 10% in una seduta",
+            "url": "https://www.ilsole24ore.com/art/gelatadomandachipprimetensionitsmcnvidiaAF4ulreD",
+            "urlToImage": "https://i2.res.24o.it/images2010/S24/Documenti/2024/04/20/Immagini/Ritagli/20240405T143332Z_1036894954_RC2KOZ99LZYC_RTRMADP_5_QUAKETAIWANTSMCkSOHU20712121102lQj1440x752@IlSole24OreWeb.JPG?r=1170x507",
+            "publishedAt": "20240420T07:41:00Z",
+            "content": "Ascolta la versione audio dell'articolo\r\n3' di lettura\r\nPossono manifestarsi euforia e disincanto nello stesso momento? A giudicare da quanto sta succedendo al mercato dei chip, la risposta è sì. Per… [+3703 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "hamish.hector@futurenet.com (Hamish Hector)",
+            "title": "ICYMI: the 8 biggest tech news stories from Boston Dynamic's new robot to Sony's OLEDbeating MicroLED TV tech",
+            "description": "Here's your tech news round up for April 20, 2024, with the 8 biggest stories from Boston Dynamics, Humane AI, and Sony.",
+            "url": "https://www.techradar.com/tech/icymithe8biggesttechnewsstoriesfrombostondynamicsnewrobottosonysoledbeatingmicroledtvtech",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/sECna6wr33DMtmR5YVdNwe120080.png",
+            "publishedAt": "20240420T07:00:50Z",
+            "content": "This week in the world of tech: Boston Dynamics unveiled a new robot, and while it terrified us, the barrage of negative Humane AI Pin reviews showed us that maybe the artificial intelligence uprisin… [+7896 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "David Phelan, Senior Contributor, \n David Phelan, Senior Contributor\n https://www.forbes.com/sites/davidphelan/",
+            "title": "Apple Watch Series 9 Hits AllTime Low Special Offer Price",
+            "description": "If you’ve been thinking of buying an Apple Watch, a new offer has just appeared that puts one model at its lowestever price.",
+            "url": "https://www.forbes.com/sites/davidphelan/2024/04/20/applewatchseries9hitsalltimelowspecialofferprice/",
+            "urlToImage": "https://imageio.forbes.com/specialsimages/imageserve/662017f12b795dec7be77345/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "20240420T08:19:27Z",
+            "content": "Apple Watch Series 9 is an elegant and goodlooking smartwatch. And its at its most attractive in premium stainlesssteel livery. Not only is the stainless steel more attractive than the aluminum on … [+6182 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Ewan Spence, Senior Contributor, \n Ewan Spence, Senior Contributor\n https://www.forbes.com/sites/ewanspence/",
+            "title": "Apple iPhone 16 Pro Camera Upgrade Includes Latest CuttingEdge Technology",
+            "description": "The next iPhone will push the smartphone camera further than Apple’s previous endeavours with its new hardware and revolutionary software.",
+            "url": "https://www.forbes.com/sites/ewanspence/2024/04/19/appleiphone16promaxcameralowlighttetraprismupgradenewiphone16/",
+            "urlToImage": "https://imageio.forbes.com/specialsimages/imageserve/65215bf2d71838ca3120e51b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "20240420T00:52:36Z",
+            "content": "Updated April 20: article originally posted April 18.\r\nIt may be an expected upgrade, but the next iPhone will push the smartphone camera further than Apples previous endeavours with its new hardware… [+3667 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "David Phelan, Senior Contributor, \n David Phelan, Senior Contributor\n https://www.forbes.com/sites/davidphelan/",
+            "title": "iPad Air 2024: Design Upgrade Coming, Report Claims",
+            "description": "The next iPad Air is expected soon and a new report has news of a striking upgrade to the display.",
+            "url": "https://www.forbes.com/sites/davidphelan/2024/04/20/ipadair2024newreportclaimsbrilliantsurpriseupgradeanditsgreatnewsipadpro2024/",
+            "urlToImage": "https://imageio.forbes.com/specialsimages/imageserve/63fc8173b70dd523223ac865/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "20240420T09:00:01Z",
+            "content": "When Apple reveals its next iPads (read here for exactly when that is likely to be), it looks like there will be two new iPad Pro tablets and two iPad Air models. And a new report claims something ve… [+3385 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Davey Winder, Senior Contributor, \n Davey Winder, Senior Contributor\n https://www.forbes.com/sites/daveywinder/",
+            "title": "New Google Play Biometrics Warning Issued To All Android Users",
+            "description": "If you get an email from Google Play about the use of biometric purchase verification on your smartphone, make sure you take the warning about shared credentials seriously.",
+            "url": "https://www.forbes.com/sites/daveywinder/2024/04/20/newgoogleplaybiometricswarningissuedtoallandroidusers/",
+            "urlToImage": "https://imageio.forbes.com/specialsimages/imageserve/662127043f847bef3865dcda/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "20240420T09:59:10Z",
+            "content": "Google Play users warned of biometric verification change\r\nSOPA Images/LightRocket via Getty Images\r\nGoogle is sending emails to users notifying them about upcoming changes to the security settings f… [+3949 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hdblog.it"
+            },
+            "author": "HDblog.it",
+            "title": "Emulatore Provenance in arrivo sull'App Store: i giochi PlayStation su iOS",
+            "description": "Non c'è ancora una data di lancio precisa",
+            "url": "https://www.hdblog.it/apple/articoli/n581436/emulatoreprovenanceappstoreplaystationios/",
+            "urlToImage": "https://hd2.tudocdn.net/1153301?w=1920",
+            "publishedAt": "20240420T11:00:00Z",
+            "content": "Dopo aver allentato le sue linee guida per l'App Store, permettendo la pubblicazione di emulatori per videogiochi retro, Apple sta vedendo fiorire nuovi emulatori sul suo store. Di recente, l'emulato… [+1917 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Antyweb.pl"
+            },
+            "author": "Kamil Pieczonka",
+            "title": "Apple TV+ za darmo na 3 miesiące. W sam raz na koniec poprzedniej promocji",
+            "description": "To już chyba taka świecka tradycja, gdy jedna promocja na Apple TV+ się kończy to pojawia się następna. Jeśli zatem szukacie darmowego VOD, to jest świetna okazja aby zyskać 3 miesiące dostępu. Trzeba tylko posiadać konsolę Xbox.\n \n The post Apple TV+ za darm…",
+            "url": "https://antyweb.pl/appletvzadarmona3miesiacexbox",
+            "urlToImage": "https://antyweb.pl/img/1250/550/fit/wpcontent/uploads/2023/07/ufu60ylrvg/tv.jpg",
+            "publishedAt": "20240420T09:09:15Z",
+            "content": "Ostatni raz o darmowym dostpie do Apple TV+ pisalimy pod koniec lutego i na pocztku marca. By to dostp na 2 miesice, wic jeli aktywowalicie go w tamtym okresie to niedugo dobiegnie on koca. Ale nie m… [+1547 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Antyweb.pl"
+            },
+            "author": "Kamil Pieczonka",
+            "title": "Pora obalić mit drogiego iPhone'a. Tak tanio jeszcze nie było",
+            "description": "Mam wrażenie, że w Polsce nadal pokutuje przekonanie, że smartfony Apple są zwyczajnie drogie i nie warto się nimi interesować, jeśli szukamy czegoś tańszego. Jestem jednak przekonany, że to błędne myślenie i zamierzam was do tego przekonać.\n \n The post Pora …",
+            "url": "https://antyweb.pl/drogiiphonetomit",
+            "urlToImage": "https://antyweb.pl/img/1250/550/fit/wpcontent/uploads/2024/04/vv63oydl4x/pixeliphone04.jpg",
+            "publishedAt": "20240420T11:20:08Z",
+            "content": "Nie bd was przekonywa, e Apple oferuje teraz jako wybitnie tanie urzdzenia. Przez ostatni rok wyranie jednak wida, e gigant z Cupertino zamierza powalczy mocniej o masowego odbiorc, bo ma wiadomo, e … [+4433 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Antyweb.pl"
+            },
+            "author": "Błażej Wojciechowski",
+            "title": "Najtańsze iPhone'y, które warto kupić w 2024",
+            "description": "Smartfony stały się nieodłączną częścią naszego codziennego życia, więc nic dziwnego, że wybór odpowiedniego modelu może być kluczowy dla naszej wygody i efektywności. Dziś na tapet bierzemy iPhone'y. Ale dla odmiany nie te najnowsze, ale nieco starsze. Apple…",
+            "url": "https://antyweb.pl/najtanszeiphoneyktorewartokupicw2024",
+            "urlToImage": "https://antyweb.pl/img/1250/550/fit/wpcontent/uploads/2024/03/3lvne1zdwh/iphone1.jpg",
+            "publishedAt": "20240420T09:00:44Z",
+            "content": "Dzi przyjrzymy si dwóm modelom iPhone'a, które wyróniaj si jako najlepsze propozycje, jeli chodzi o stosunek jakoci do ceny w 2024 roku. To iPhone SE (3. generacji) z 2022 roku oraz iPhone 13, który … [+3056 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "autosport.com"
+            },
+            "author": "Matt Somerfield",
+            "title": "The Haas F1 updates that have bucked a sprint race trend",
+            "description": "With so little practice running before parc ferme conditions beginning for sprint qualifying and the sprint itself, it is all too easy to get lost with the impact of any developments.This is why, for example, Aston Martin elected to fasttrack its recent upgr…",
+            "url": "https://www.autosport.com/f1/news/thehaasf1updatesthathavebuckedasprintracetrend/10600833/",
+            "urlToImage": "https://cdn2.motorsport.com/images/amp/0rG39aJ2/s6/kevinmagnussenhaasvf24lea.jpg",
+            "publishedAt": "20240420T02:10:42Z",
+            "content": "With so little practice running before parc ferme conditions beginning for sprint qualifying and the sprint itself, it is all too easy to get lost with the impact of any developments.\r\nThis is why, f… [+2734 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "finance.yahoo.com",
+            "title": "2 Magnificent Stocks That Have Created Many Millionaires, and Will Continue to Make More",
+            "description": "The Nasdaq Composite has increased by 97% in the last five years and 286% in the past decade, proving the value of holding stocks over the long term. Stocks in this index have made many millionaires over the years and will likely continue to make more as indu…",
+            "url": "https://biztoc.com/x/59e48c57368726c6",
+            "urlToImage": "https://c.biztoc.com/p/59e48c57368726c6/s.webp",
+            "publishedAt": "20240420T09:56:06Z",
+            "content": "The Nasdaq Composite has increased by 97% in the last five years and 286% in the past decade, proving the value of holding stocks over the long term. Stocks in this index have made many millionaires … [+276 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Actualidadiphone.com"
+            },
+            "author": "Ángel González",
+            "title": "Apple duda sobre su iPhone plegable: ¿cancelar o posponer?",
+            "description": "Nuevas fuentes apuntan a que Apple podría estar dudando sobre si retrasar el lanzamiento del iPhone plegable a 2027 o cancelar el proyecto.",
+            "url": "https://www.actualidadiphone.com/appledudasobresuiphoneplegablecancelaroposponer/",
+            "urlToImage": "https://www.actualidadiphone.com/wpcontent/uploads/2023/02/iPhoneplegable.jpg",
+            "publishedAt": "20240420T08:00:57Z",
+            "content": "La tecnología de pantallas plegables lleva ya unos años entre nosotros y aunque no acaba de cuajar entre los dispositivos de gamas más altas, las compañías siguen dedicando millones de euros en mejor… [+2163 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Actualidadiphone.com"
+            },
+            "author": "Alicia Tomero",
+            "title": "Activar la verificación de clave de contacto de iMessage",
+            "description": "Con nuestros dispositivos podemos activar la verificación de clave de contacto de iMessage, una idea más segura para posibles hackeos.",
+            "url": "https://www.actualidadiphone.com/activarlaverificaciondeclavedecontactodeimessage/",
+            "urlToImage": "https://www.actualidadiphone.com/wpcontent/uploads/2024/04/Mensajeconllavescalede1713605149213.jpg",
+            "publishedAt": "20240420T09:34:53Z",
+            "content": "La verificación de clave de contacto de iMessage es una funcionalidad que ofrece el servicio Apple con la seguridad de poder ayudar a en ofrecer una mayor seguridad en el intercambio de mensajes entr… [+4990 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "3dnews.ru"
+            },
+            "author": null,
+            "title": "В России на треть вырос спрос на ремонт смартфонов",
+            "description": "Рост спроса на ремонт смартфонов в России по итогам апреля 2024 года составил от 26 % до 30 %, сообщает «Коммерсантъ». Такая динамика объясняется ростом цен на смартфоны, увеличением доли китайской продукции, а также популярностью подержанных устройств — потр…",
+            "url": "https://3dnews.ru/1103601/vrossiinatretvirossprosnaremontsmartfonov",
+            "urlToImage": "https://3dnews.ru/assets/external/illustrations/2024/04/20/1103601/phone.jpg",
+            "publishedAt": "20240420T11:07:00Z",
+            "content": "2024 26 % 30 %, «». , , — 2023 . , .\r\n: Bruno / pixabay.com\r\n2024 30 % , «». : Xiaomi, Honor, Huawei, Realme Tecno — 2,5 . . Apple iPhone 2024 21 % , Pedant.ru, Android , . Pedant.ru 26 %.\r\n  , , «… [+170 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tinhte.vn"
+            },
+            "author": "noreply@tinhte.vn (Anh Tú.), Anh Tú.",
+            "title": "Một bác sĩ ở Brazil dùng Apple Vision Pro hỗ trợ phẫu thuật cho bệnh nhân bị rách cơ vai",
+            "description": "Kể từ khi Apple Vision Pro ra mắt, anh em cũng thấy vài trường hợp bác sĩ dùng nó để hỗ trợ trong các ca mổ. Mới đây, một bác sĩ chỉnh hình ở Brazil đã dùng Vision Pro để phẫu thuật cho bệnh nhân bị rách cơ vai.",
+            "url": "https://tinhte.vn/thread/motbacsiobrazildungapplevisionprohotrophauthuatchobenhnhanbirachcovai.3779920/",
+            "urlToImage": "https://photo2.tinhte.vn/data/attachmentfiles/2024/04/8313224_Screenshot_20240420_at_4.31.jpg",
+            "publishedAt": "20240420T03:08:53Z",
+            "content": "Phu thut ni soi khp vai dùng camera a vào trong khp, bác s s nhìn trc tip vào màn hình thc hin. Vi Vision Pro, tôi có th xem hình nh to nh màn hình chiu phim, phân gii li cao, li còn xem c c kt qu xé… [+917 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Neowin"
+            },
+            "author": "Sagar Naresh",
+            "title": "Provenance emulator coming soon to the App Store, to bring PlayStation games to iOS",
+            "description": "Multiplatform emulator Provenance has confirmed the release of its app on the App Store after Apple eased the App Store restrictions to allow retro game emulators for its platforms. Read more...",
+            "url": "https://www.neowin.net/news/provenanceemulatorcomingsoontotheappstoretobringplaystationgamestoios/",
+            "urlToImage": "https://cdn.neowin.com/news/images/uploaded/2024/04/1713587483_provenanceemulatoriosapple_story.jpg",
+            "publishedAt": "20240420T04:58:01Z",
+            "content": "Soon after Apple eased its App Store guidelines that now allow retro game emulators to be published on the App Store for its iOS and tvOS platforms, we are seeing new emulators popping up on the App … [+1883 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Elotrolado.net"
+            },
+            "author": "Benzo",
+            "title": "Las noticias de la semana (#16 2024)",
+            "description": "<table><tr><td></td></tr></table>Esta semana hemos dado la bienvenida a juegos como No Rest for the Wicked, Grounded (PS4, PS5 y Switch) y Harold Halibut, mientras que en la lista de próximos lanzamientos hemos sumado a EA Sports F1 24, Kingdom Come: Delivera…",
+            "url": "https://www.elotrolado.net/noticias/juegos/semana162024",
+            "urlToImage": "https://images.elotrolado.net/headers/upload/3/b/3b6387_teleline_news.jpg?1200",
+            "publishedAt": "20240420T09:25:14Z",
+            "content": "Esta semana hemos dado la bienvenida a juegos como No Rest for the Wicked, Grounded (PS4, PS5 y Switch) y Harold Halibut, mientras que en la lista de próximos lanzamientos hemos sumado a EA Sports F1… [+5631 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Netafull.net"
+            },
+            "author": "コグレマサト",
+            "title": "PlayStation・SEGA・NEC・バンダイなどをサポートするiPhoneエミュレータアプリ「Provenance」がApp Storeでリリースに向け開発中",
+            "description": "AppleがApp Storeのルールを改定し、iPhone用のゲームエミュレータアプリ「Delta」がリリースされて話題になっていますが、PlayStation・SEGA・NEC・バンダイなどをサポートする「Prove...\n投稿 PlayStation・SEGA・NEC・バンダイなどをサポートするiPhoneエミュレータアプリ「Provenance」がApp Storeでリリースに向け開発中 は ネタフル に最初に表示されました。",
+            "url": "https://netafull.net/iphoneapp/0149246.html",
+            "urlToImage": "https://netafull.net/wpcontent/uploads/2024/04/Provenanceappstore.jpg",
+            "publishedAt": "20240420T03:30:00Z",
+            "content": "AppleApp StoreiPhoneDeltaPlayStationSEGANECProvenanceApp Store\r\niMoreExclusive: iPhone emulator Provenance following Delta onto the App Store, with SEGA and PlayStation support in tow\r\nProvenanceJose… [+599 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Everythingeverywhere.com"
+            },
+            "author": "Gary Arndt",
+            "title": "All About Batteries",
+            "description": "Podcast Transcript The odds are quite good that somewhere around you right now as you listen to me speak these words, is a battery.  Whether it is in your smartphone, earbuds, automobile, smoke detector, or laptop, batteries have become ubiquitous in the mode…",
+            "url": "https://everythingeverywhere.com/allaboutbatteries/",
+            "urlToImage": "https://photos.smugmug.com/Other/nhRFP2/PodcastImages/i9SZ8zKd/0/FRJsT9XB8GT6KNMwsLLvrHZvmDmFT5NLVM5kwzmmL/L/1383epartL.jpg",
+            "publishedAt": "20240420T08:32:37Z",
+            "content": "Subscribe Apple | Spotify | Amazon | Player.FM | TuneInCastbox | Podurama | Podcast Republic | RSS | Patreon\r\nThe odds are quite good that somewhere around you right now as you listen to me speak the… [+12700 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tinhte.vn"
+            },
+            "author": "noreply@tinhte.vn (Anh Tú.), Anh Tú.",
+            "title": "Ứng dụng máy tính trên macOS 15 có thể được thiết kế lại và thêm vào 1 số tính năng mới",
+            "description": "Theo AppleInsider, Apple đang phát triển \"Dự án GreyParrot\" với nhiều tính năng và cải tiến cho ứng dụng Máy tính, đặc biệt là trên macOS 15. Ngoài chức năng liên kết với Apple Notes trước đó với các công cụ ghi chú toán học…",
+            "url": "https://tinhte.vn/thread/ungdungmaytinhtrenmacos15cotheduocthietkelaivathemvao1sotinhnangmoi.3779925/",
+            "urlToImage": "https://photo2.tinhte.vn/data/attachmentfiles/2024/04/8313237_Screenshot_20240420_at_5.37.jpg",
+            "publishedAt": "20240420T04:06:44Z",
+            "content": "ng dng Máy tính trên macOS 15 cng s có giao din tng t nh phiên bn trên iPhone. Theo nhng thông tin trên thì ây có th là ln thit k li u tiên ca ng dng máy tính k t macOS 10 Yosemite. Ngoài ra, anh em … [+255 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Spidersweb.pl"
+            },
+            "author": "Szymon Radzewicz",
+            "title": "Recenzja BenQ PD3225U. Mocna alternatywa dla Apple Studio Display za połowę ceny",
+            "description": "BenQ zagrało na nosie Apple. Najnowszy monitor BenQ PD3225U to świetna alternatywa dla Apple Studio Display, do tego tańsza prawie o połowę.",
+            "url": "https://spidersweb.pl/2024/04/recenzjabenqpd3225ualternatywaapplestudiodisplay.html",
+            "urlToImage": "https://ocspl.oktawave.com/v1/AUTH_2887234e384a48738bc5405211db13a2/spidersweb/2024/04/BenQPD3225Urecenzja.jpg",
+            "publishedAt": "20240420T08:05:00Z",
+            "content": "Popracowano nad odwzorowaniem barw, ulepszonym wzgldem poprzednika z 95 proc. DCIP3 do 98 proc. DCIP3 w nowym modelu. Rónica nie jest gigantyczna, ale dla profesjonalisty bdzie ona wyczuwalna. Od r… [+245 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pansci.asia"
+            },
+            "author": "雅文兒童聽語文教基金會",
+            "title": "Freeze & Mute！別出聲！——恐音症 TMI 我來告訴你！",
+            "description": "隔壁桌吃飯的咀嚼聲好吵！好煩！\n你會因為一些微小的聲響而坐立難安嗎？\n恐音症該怎麼治療？",
+            "url": "https://pansci.asia/archives/375520",
+            "urlToImage": "https://pansci.asia/wpcontent/uploads/2024/04/curlyhairedirritatedwomanplugsearstoavoidl20231127051317utc942x628.jpg",
+            "publishedAt": "20240420T03:31:15Z",
+            "content": "4% [1]\r\n A A Apple Angel A Angel A [23]\r\nBBC Horizon&lt; Derek Tastes of Earwax &gt;[4]\r\n Nabokov[5] Olivier Messiaen Wassily Kandinsky [6]\r\n bouba kiki bouba kiki[7]\r\n [8910]Bob Kirk[1112]\r\nRickroll… [+3202 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Macitynet.it"
+            },
+            "author": "Mauro Notarianni",
+            "title": "Apple pronta ad aprire il Tap to Pay a terze parti",
+            "description": "L'apertura della funzionalità Tap to Pay a terze parti (quella che in alcuni Paesi consente agli esercenti accettare Apple Pay e altri pagamenti contactless utilizzando iPhone) dovrebbe essere approvata dall'antitrust UE entro un mese, dopo la revisione di al…",
+            "url": "https://www.macitynet.it/?p=1297981",
+            "urlToImage": "https://www.macitynet.it/wpcontent/uploads/2023/11/TapToPay.jpg",
+            "publishedAt": "20240420T07:00:38Z",
+            "content": "L’apertura della funzionalità Tap to Pay a terze parti (quella che in alcuni Paesi consente agli esercenti accettare Apple Pay e altri pagamenti contactless utilizzando iPhone) dovrebbe essere approv… [+1639 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Macitynet.it"
+            },
+            "author": "Pubblicità",
+            "title": "Offerte Amazon 20 aprile fino al 63% su Apple, TCL, Ugreen, Varta, Guzzini, Moulinex, DeLonghi",
+            "description": "In sconto TV, zaini, custodie, cavi, elettrodomestici, lampade, batterie e molto altro\n su macitynet.it Offerte Amazon 20 aprile fino al 63% su Apple, TCL, Ugreen, Varta, Guzzini, Moulinex, DeLonghi",
+            "url": "https://www.macitynet.it/offerteamazon20aprile2024/",
+            "urlToImage": "https://www.macitynet.it/wpcontent/uploads/2018/04/amazonlista8.jpg",
+            "publishedAt": "20240420T07:59:57Z",
+            "content": "Quelle che trovate elencate in questa pagina sono le offerte su Amazon valide nel momento in cui scriviamo.\r\nSono ancora valide queste offerte:\r\n<ul><li>Apple, Govee, Lexar, Bluetti, Ecovacs</li><li>… [+7978 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Blogdumoderateur.com"
+            },
+            "author": "Appoline Reisacher",
+            "title": "Comment utiliser vos Airpods : 5 astuces à connaître",
+            "description": "Voici quelques fonctionnalités pratiques à connaître si vous possédez des AirPods, AirPods Pro ou AirPods Max !",
+            "url": "https://www.blogdumoderateur.com/astucesairpods/",
+            "urlToImage": "https://f.hellowork.com/blogdumoderateur/2024/04/appleairpodsastuces1200x628.jpeg",
+            "publishedAt": "20240420T07:30:52Z",
+            "content": "1. Configurer les commandes associées aux AirPods\r\nAvec vos AirPods, il est possible de déclencher différentes actions en effectuant un simple mouvement sur vos écouteurs : lancer ou mettre en pause … [+5848 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sapo.pt"
+            },
+            "author": "Pedro Simões",
+            "title": "Sistema de pagamento NFC da Apple vai ser aberto a outras apps já em maio",
+            "description": "Agora que as lojas de apps já chegaram ao iPhone, a Apple tem de começar a olhar para mais exigências da Europa. O próximo passo será o sistema de pagamentos por NFC, que deverá...",
+            "url": "https://pplware.sapo.pt/apple/sistemadepagamentonfcdaapplevaiserabertoaoutrasappsjaemmaio/",
+            "urlToImage": "https://pplware.sapo.pt/wpcontent/uploads/2024/04/apple_pay_1.jpg",
+            "publishedAt": "20240420T07:00:55Z",
+            "content": "Agora que as lojas de apps já chegaram ao iPhone, a Apple tem de começar a olhar para mais exigências da Europa. O próximo passo será o sistema de pagamentos por NFC, que deverá ver a proposta aprese… [+1945 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slate Magazine"
+            },
+            "author": "John Dickerson",
+            "title": "John Dickerson’s Notebooks: Remembering George and Defending the Morning",
+            "description": "John examines the importance of enjoying the mornings and the emptiness felt when a member of the home is gone.",
+            "url": "https://slate.com/podcasts/navelgazing/2024/04/audioessayjohndickersonremembershisbeloveddog",
+            "urlToImage": "https://compote.slate.com/images/ed6f01bcb1e8449080a911d60ca96944.png?width=1560",
+            "publishedAt": "20240420T09:00:00Z",
+            "content": "In this weeks essay, John dives deep into the loss of his beloved dog, George, the essayists dilemma, the comfort of quiet mornings, and more.\r\nNotebook Entries:\r\nNotebook 75, page 5. September 5, 20… [+863 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slate Magazine"
+            },
+            "author": "Dahlia Lithwick",
+            "title": "The First Week of Trump’s Trial Gave Him Plenty of Reasons to Worry",
+            "description": "Trump tried to keep his critics off the jury. It didn’t work.",
+            "url": "https://slate.com/podcasts/amicus/2024/04/trumphushmoneytrialanalysiswhatjuryselectionrevealedabouttheformerpresidentsdefense",
+            "urlToImage": "https://compote.slate.com/images/24c63d16890046e1a529a8c4f6aeab2d.png?crop=1080%2C720%2Cx100%2Cy0&width=1560",
+            "publishedAt": "20240420T09:00:00Z",
+            "content": "Get your tickets for Amicus Live in Washington DC here.\r\nThe first criminal trial of Donald Trump is finally here. This week, hundreds of possible jurors filed through Judge Juan Merchans courtroom i… [+1597 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tweakers.net"
+            },
+            "author": "Kevin Krikhaar",
+            "title": "Reuters: EC gaat akkoord met Apples voorstel om NFC open te stellen op iPhones",
+            "description": "De Europese Commissie gaat binnenkort akkoord met Apples voorstel om de NFCchip in iPhones beschikbaar te maken voor betaaldiensten van derden in de EU. Dat schrijft Reuters op basis van gesprekken met ingewijden.",
+            "url": "https://tweakers.net/nieuws/221072/reutersecgaatakkoordmetapplesvoorstelomnfcopentestellenopiphones.html",
+            "urlToImage": "https://tweakers.net/i/E1RRGnJehj7quyGftm9JEUyhnQI=/134x134/filters:strip_icc():strip_exif()/i/2005056716.jpeg?f=meta",
+            "publishedAt": "20240420T08:01:29Z",
+            "content": "De Europese Commissie gaat binnenkort akkoord met Apples voorstel om de NFCchip in iPhones beschikbaar te maken voor betaaldiensten van derden in de EU. Dat schrijft Reuters op basis van gesprekken … [+1596 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacGeneration"
+            },
+            "author": "Félix Cattafesta",
+            "title": "Sortie de veille : les boutiques tierces sont enfin disponibles sur iOS !",
+            "description": "Toutes les semaines, écoutez Sortie de veille, le podcast hebdomadaire de MacGeneration ! On débat de l'actualité Apple et tech des derniers jours en une quinzaine de minutes. \n\nGros changements dans l’écosystème Apple : il est désormais possible d’installer …",
+            "url": "https://www.macg.co/podcasts/2024/04/sortiedeveillelesboutiquestiercessontenfindisponiblessurios143335",
+            "urlToImage": "https://files.staticmacg.com/macgupload/icon.png",
+            "publishedAt": "20240420T06:00:00Z",
+            "content": "Toutes les semaines, écoutez Sortie de veille, le podcast hebdomadaire de MacGeneration ! On débat de l'actualité Apple et tech des derniers jours en une quinzaine de minutes.\r\nGros changements dans … [+1036 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CleanTechnica"
+            },
+            "author": "Jennifer Sensiba",
+            "title": "Kia EV9: First Impressions",
+            "description": "There was a time when Kia was the bargain basement brand. Quality sucked, but the price was low. In recent years, Kia has made an amazing turnaround and has become an automotive leader. Nothing seems to prove this more than the company’s fastcharging and rel…",
+            "url": "https://cleantechnica.com/2024/04/20/kiaev9firstimpressions/",
+            "urlToImage": "https://cleantechnica.com/wpcontent/uploads/2024/04/EV9HeaderReflections800x445.png",
+            "publishedAt": "20240420T11:03:37Z",
+            "content": "Sign up for daily news updates from CleanTechnica on email. Or follow us on Google News!\r\nThere was a time when Kia was the bargain basement brand. Quality sucked, but the price was low. In recent ye… [+5778 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Iculture.nl"
+            },
+            "author": "Gonny van der Zwaag | iCulture.nl",
+            "title": "Weekend kijktips: Jane, Máxima, Dune Part Two en meer",
+            "description": "We schrijven op iCulture regelmatig over streaming videodiensten en handige functies om meer uit deze diensten te halen. Maar wat ga je kijken op je Appleapparaten? Daar besteden we in deze rubriek aandacht aan. Je kunt dit weekend kijken naar diverse nieuwe…",
+            "url": "https://www.iculture.nl/?p=1393141",
+            "urlToImage": "https://www.iculture.nl/wpjson/socialimagegenerator/v1/image/1393141/?v=13931451713606704",
+            "publishedAt": "20240420T07:55:00Z",
+            "content": "Sciencefictionfilm van Zack Snyder, waarin een kolonie aan de rand van het sterrenstelsel strijdt tegen een machtig leger. Met o.a. Michiel Huisman.\r\nRebel Moon — Part Two: The Scargiver gaat verder … [+616 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xatakahome.com"
+            },
+            "author": "Jose Antonio Carmona",
+            "title": "El Chromecast me sigue gustando más que el Fire TV Stick por estas razones",
+            "description": "En distintas ocasiones he comentado como en casa compramos una tele y qué es lo primero que hago cuando la saco de la caja. De hecho, siempre uso teles con Android TV (ahora con Google TV) por las facilidades que ofrece el mundo de aplicaciones que tienen a m…",
+            "url": "https://www.xatakahome.com/afondo/chromecastmesiguegustandoquefiretvstickestasrazones",
+            "urlToImage": "https://i.blogs.es/804160/img_4263/840_560.jpeg",
+            "publishedAt": "20240420T09:01:23Z",
+            "content": "En distintas ocasiones he comentado como en casa compramos una tele y qué es lo primero que hago cuando la saco de la caja. De hecho, siempre uso teles con Android TV (ahora con Google TV) por las fa… [+4286 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ipadizate.com"
+            },
+            "author": "Gabriela Martínez",
+            "title": "Apple patenta una cartera que te avisa si te dejaste la tarjeta",
+            "description": "Apple tiene un interés especial en ayudarnos a encontrar cosas perdidas, como servicios como la app Buscar, o dispositivos como el AirTag. Pero ahora la compañía ha ideado una forma de prevenir que lleguemos a ese punto. Según una documentación vista reciente…",
+            "url": "https://ipadizate.com/rumores/applepatentaunacarteraqueteavisasitedejastelatarjeta",
+            "urlToImage": "https://ipadizate.com/hero/2022/09/carteramagsafeapple.1663940583.2393.jpg?width=1200",
+            "publishedAt": "20240420T08:00:23Z",
+            "content": "La billetera inteligente notifica ante la falta de una tarjeta e informa el último lugar en el que estuvo\r\nApple tiene un interés especial en ayudarnos a encontrar cosas perdidas, como servicios como… [+2505 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ipadizate.com"
+            },
+            "author": "Sergio J. Ortiz",
+            "title": "Los mejores fondos de pantalla abstractos para iPhone",
+            "description": "El propio Pablo Picasso, maestro universal del arte abstracto, aseguraba que en sus obras no daban pie a la abstracción. Para él no existía tal cosa. Opinaba que era un error, simple decoración, y que lo abstracto no podría ni tan siquiera existir porque un a…",
+            "url": "https://ipadizate.com/fondosdepantalla/losmejoresfondosdepantallaabstractosparaiphone",
+            "urlToImage": "https://ipadizate.com/hero/2024/04/fondospantallaabstractosd.jpg?width=1200",
+            "publishedAt": "20240420T10:01:38Z",
+            "content": "Fondos de pantalla para iPhone\r\nEl propio Pablo Picasso, maestro universal del arte abstracto, aseguraba que en sus obras no daban pie a la abstracción. Para él no existía tal cosa. Opinaba que era u… [+2379 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Natalie.mu"
+            },
+            "author": "音楽ナタリー",
+            "title": "Mrs. GREEN APPLEが18役演じるMVはどう撮影されたのか",
+            "description": "Mrs. GREEN APPLEの新曲「ライラック」のミュージックビデオの撮影の裏側を収めた映像「Behind the Scenes #1」がYouTubeで公開された。",
+            "url": "https://natalie.mu/music/news/570264",
+            "urlToImage": "https://ogre.natalie.mu/media/news/music/2024/0420/MVBTS.jpg?impolicy=twitter_card_face_crop",
+            "publishedAt": "20240420T09:00:00Z",
+            "content": "Mrs. GREEN APPLEBehind the Scenes #1\r\n4"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hvg.hu"
+            },
+            "author": "hvg@hvg.hu",
+            "title": "Megnyitja az iPhoneok pénztárcáját az Apple, már csak az EU áldása kell hozzá",
+            "description": "Már a célegyenesben lehet az Apple javaslata, ami alapvető változást hozna az iPhoneokkal történő fizetés terén. A céget azonban nem a puszta jószándék vezérelheti, inkább a saját pénztárcáját féltheti: egy tetemes bírságot kerülhet el így.",
+            "url": "https://hvg.hu/tudomany/20240420_iphoneapplewalletpaynfcmobilfizetesirendszermegnyitasaalternativkulsofejlesztokszamaratrosztelleneseljaraseuropaibizottsag",
+            "urlToImage": "https://img.hvg.hu/Img/7fcefbf8ac484ee6aef532203afa118c/f855cdff5a5c4b27ba198229802bd92f.jpg",
+            "publishedAt": "20240420T10:03:00Z",
+            "content": "A korábbi ígéretének megfelelen hamarosan megnyithatja az iPhoneok érintés nélküli mobilfizetési rendszerét az Apple a Reuters hírügynökség forrásai szerint ugyanis már csak az Európai Unió trösztel… [+1801 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Santalab.me"
+            },
+            "author": "SANTA@管理人",
+            "title": "PS1やゲームキューブなどにも対応のマルチエミュレーター「Provenance」もAppStore向けに準備中！Appleの考えるレトロゲームとは…",
+            "description": "先日、AltStoreの作者さんにより開発されたファミコン / スーファミ / ニンテンドー64 / ゲームボーイ / ゲームボーイアドバンス等に対応したエミュレーター【Delta】がApp Storeより正式にリリースされ、これによりAp…",
+            "url": "https://tools4hack.santalab.me/upcomingmultigameemulatorprovenancetotheappstorerelease.html",
+            "urlToImage": "https://tools4hack.santalab.me/media/uploads/2024/04/upcomingmultigameemulatorprovenancetotheappstorerelease1.jpg",
+            "publishedAt": "20240420T10:27:17Z",
+            "content": "AltStore / / 64 / / DeltaApp StoreApple\r\nDeltaApp StoreProvenanceApp Store\r\nProvenance\r\nProvenance\r\nPlayStationWiiApp StoreDeltaPlayStation 2PSP\r\n<ul><li>[Atari] 2600 / 5200 / 7800 / Jaguar / Lynx</l… [+548 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techwd.com"
+            },
+            "author": "أحمد بكري",
+            "title": "نتفليكس لن تشاركنا أرقام المشتركين بعد الآن",
+            "description": "أعلنت شركة نتفليكس، عملاق البث الترفيهي، عن تغيير هام في طريقة إفصاحها عن بياناتها المالية، حيث ستتوقف عن الإعلان عن عدد المشتركين وأرباحها لكل مشترك بدءًا من تقرير أرباح الربع الأول من عام 2025. وبررت الشركة هذا القرار في رسالتها الفصلية للمساهمين، مؤكدةً أن…",
+            "url": "https://www.techwd.com/wd/2024/04/20/%d9%86%d8%aa%d9%81%d9%84%d9%8a%d9%83%d8%b3%d9%84%d9%86%d8%aa%d8%b4%d8%a7%d8%b1%d9%83%d9%86%d8%a7%d8%a3%d8%b1%d9%82%d8%a7%d9%85%d8%a7%d9%84%d9%85%d8%b4%d8%aa%d8%b1%d9%83%d9%8a%d9%86/",
+            "urlToImage": "https://i0.wp.com/www.techwd.com/wd/wpcontent/uploads/2024/04/netflix.jpg?fit=1085%2C627&ssl=1",
+            "publishedAt": "20240420T07:59:24Z",
+            "content": "2025.\r\n ( ) .\r\n . .\r\n .\r\n .\r\n | \r\n .\r\n Apple TV Plus. Youtube TV .\r\n 2024 269.6 260.28 2023."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techviral.net"
+            },
+            "author": "Amarnath Chakraborty",
+            "title": "How to Fix iPhone Apps Greyed Out After iOS Update",
+            "description": "iOS updates are very important for your iPhone since they bring many new features, bug fixes, security patches, and more. However, certain updates can cause more problems for your iPhone. After installing an iOS update, iPhone users usually face a few problem…",
+            "url": "https://techviral.net/iphoneappsgreyedoutafteriosupdate/",
+            "urlToImage": "https://techviral.net/wpcontent/uploads/2024/04/FixiPhoneAppsGreyedOutAfteriOSUpdate11.jpg",
+            "publishedAt": "20240420T09:00:06Z",
+            "content": "iOS updates are very important for your iPhone since they bring many new features, bug fixes, security patches, and more. However, certain updates can cause more problems for your iPhone.\r\nAfter inst… [+4871 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "19700101T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "19700101T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "19700101T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "19700101T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "19700101T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "19700101T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ispazio.net"
+            },
+            "author": "Luca Milani",
+            "title": "Batteri e Microbi sullo Smartphone? Ecco la gamma di Accessori per la Pulizia + Coupon 10%",
+            "description": "Batteri e Microbi sullo Smartphone? Ecco la gamma di Accessori per la Pulizia + Coupon 10%\n\nSecondo uno studio, li tocchiamo circa 150 volte al giorno e sono sporchi più dell’asse del WC. Stiamo parlando dei nostri smartphone e tablet, fedeli compagni di viag…",
+            "url": "https://www.ispazio.net/2068518/batteriemicrobisullosmartphoneeccolagammadiaccessoriperlapuliziacoupon10",
+            "urlToImage": "https://www.ispazio.net/wpcontent/uploads/2024/04/ispcoverstylespray11280x7201.png",
+            "publishedAt": "20240420T06:30:36Z",
+            "content": "Secondo uno studio, li tocchiamo circa 150 volte al giorno e sono sporchi più dellasse del WC. Stiamo parlando dei nostri smartphone e tablet, fedeli compagni di viaggio e costanti dispenser di micro… [+3817 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Apple Generated $23 Billion of Q1 2024 Revenue From Something Other Than Hardware Devices. Does That Make This Top Warren Buffett Stock a NoBrainer Buy?",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_ccsession_39ba90745b1e483a99a037b705c18843",
+            "urlToImage": null,
+            "publishedAt": "20240420T08:20:00Z",
+            "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+        },
+        {
+            "source": {
+                "id": "abcnewsau",
+                "name": "ABC News (AU)"
+            },
+            "author": "Chris Calcino and Adam Stephen",
+            "title": "The barefoot band of bush kids on a mission to start a cricket team",
+            "description": "Henry Land travels 400km to play cricket every weekend. But after posting handdrawn flyers around town, the Cunnamulla kid's dream of starting a local cricket team could finally come true.",
+            "url": "https://www.abc.net.au/news/20240420/cunnamulligrubsoutbackkidsjuniorcricketteamofcunnamulla/103701654",
+            "urlToImage": "https://liveproduction.wcms.abccdn.net.au/72b262246902b74492e0509b509aa5a9?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=622&width=862&height=485&imformat=generic",
+            "publishedAt": "20240420T02:32:04Z",
+            "content": "Don Bradman was a cricket obsessive even as a child, spending hours every day whacking a golf ball against an old water tank with a cricket stump.\r\nAlmost a century later, a kid from Cunnamulla might… [+7346 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Www.nzz.ch"
+            },
+            "author": "Auswärtige Autoren (AA)",
+            "title": "Mein Gott, Trump! Wie gefährlich sind die nationalistischen Christen, die in den USA auf dem Vormarsch sind?",
+            "description": "Vertreter der christlichen Nationalisten waren dabei, als TrumpAnhänger das Capitol stürmten. Warner sehen sie bereits als Vorboten eines Bürgerkriegs und einer faschistischen Theokratie.",
+            "url": "https://www.nzz.ch/feuilleton/donaldtrumpchristlichenationalistenusald.1825415",
+            "urlToImage": "https://img.nzz.ch/2024/04/17/69099865aeac494083f0ff9791e723b4.jpeg?width=1200&height=675&fit=bound&quality=75&auto=webp&crop=4083,2297,x0,y223&wmark=nzz",
+            "publishedAt": "20240420T03:30:00Z",
+            "content": "Die Politisierung des Christentums in den USA ist kein historisches Novum. Methodistische Kirche in Freyburg, Texas.\r\n«Lets make America pray again», trompetete der amerikanische Präsidentschaftskand… [+9079 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Tamara Palmer",
+            "title": "Earth Day 2024: Where and How to Recycle Your Old Computers and Printers for Free  CNET",
+            "description": "Got an old printer or two that you want to recycle? Check out retailers like Best Buy, OfficeMax and Staples.",
+            "url": "https://www.cnet.com/tech/computing/earthday2024whereandhowtorecycleyouroldcomputersandprintersforfree/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/4a3a87521040291ccb0180878a26d17759473a6e/hub/2024/04/02/6c5be88d22004ff7b60d410e9ce11f7e/computersrecycling856086582.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "20240420T09:00:07Z",
+            "content": "This Earth Day, do your part to ease the burden on our landfill. Instead of throwing away your old laptops, desktops and printers, choose one of the many ways you can responsibly recycle them for fre… [+4385 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Wallpaper*"
+            },
+            "author": "Sofia de la Cruz",
+            "title": "Ama Bar, in Vancouver, is sexy and a little disorienting",
+            "description": "Ama Bar features ‘Blade Runner 2049’inspired interiors by &Daughters",
+            "url": "https://www.wallpaper.com/travel/bars/amabarvancouvercanada",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/BYHCVJh53cHsjFc8aUvZL6120080.jpg",
+            "publishedAt": "20240420T08:00:00Z",
+            "content": "Sensual, nostalgic and a little disorienting – that’s precisely what stepping into Ama, a newly opened cocktail lounge and raw bar in Vancouver, feels like. Nestled within a twostorey 1970s walkup,… [+3574 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Wallpaper*"
+            },
+            "author": "Ellie Stathaki",
+            "title": "Monospinal is a Japanese gaming company’s HQ inspired by its product’s world",
+            "description": "A Japanese design studio fulfils its quest to take Monospinal, the Tokyo HQ of a video game developer, to the next level",
+            "url": "https://www.wallpaper.com/architecture/monospinalmakotoyamaguchidesignjapanesegamingcompanyofficetokyo",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Wv3wk2JP35Gv7ZFXqj54Df120080.jpg",
+            "publishedAt": "20240420T06:00:00Z",
+            "content": "Monospinal, the HQ of a successful Japanese gaming company was born as a symbolic manifestation of its users’ world and values, conceived by Tokyobased studio Makoto Yamaguchi Design to house the fi… [+4241 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Geeky Gadgets"
+            },
+            "author": "Roland Hutchinson",
+            "title": "Check Out These Awesome iPhone Features",
+            "description": "Are you looking to get the most out of your iPhone? Whether you’re a new user or a seasoned pro, you’ll be pleased to know that there are several lesserknown features and shortcuts that can significantly enhance your experience. Thanks to iDB, a range of han…",
+            "url": "https://www.geekygadgets.com/checkouttheseawesomeiphonefeatures/",
+            "urlToImage": "https://www.geekygadgets.com/wpcontent/uploads/2024/04/iPhoneFeatures2.jpg",
+            "publishedAt": "20240420T06:58:15Z",
+            "content": "Are you looking to get the most out of your iPhone? Whether you’re a new user or a seasoned pro, you’ll be pleased to know that there are several lesserknown features and shortcuts that can signific… [+3116 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Smzdm.com"
+            },
+            "author": null,
+            "title": "百亿补贴：Apple 苹果 AirPods 3 闪电充电盒版 半入耳式真无线蓝牙耳机 白色 1085元",
+            "description": "百亿补贴:Apple 苹果 AirPods 3 闪电充电盒版 半入耳式真无线蓝牙耳机 白色 1085元,什么值得买甄选出拼多多优惠促销商品,包括Apple/苹果报价、多少钱等信息,认真生活,好好花钱就上什么值得买。",
+            "url": "https://www.smzdm.com/p/110129080/",
+            "urlToImage": "https://qny.smzdm.com/202110/19/616dbedada8518907.jpg_d250.jpg",
+            "publishedAt": "20240420T09:38:17Z",
+            "content": "AirPods 3D AirPods Apple Apple Music \r\n AirPods  IPX4 Apple H1 AirPods \r\n 6 4 5 AirPods 1 4 30 MagSafe"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Smzdm.com"
+            },
+            "author": null,
+            "title": "Apple 苹果 iPhone 15 Pro Max 5G手机 256GB 原色钛金属 8702.01元（需用券）",
+            "description": "Apple 苹果 iPhone 15 Pro Max 5G手机 256GB 原色钛金属 8702.01元（需用券）,什么值得买甄选出京东优惠促销商品,包括Apple/苹果报价、多少钱等信息,认真生活,好好花钱就上什么值得买。",
+            "url": "https://www.smzdm.com/p/110081620/",
+            "urlToImage": "https://qny.smzdm.com/202309/13/650172b1b75c2802.jpg_d250.jpg",
+            "publishedAt": "20240420T01:06:23Z",
+            "content": "iPhone 15 Pro Max 6.7ProMotion Super Retina XDR 120Hz iOS 17 iPhone 14 Pro Max 19g\r\niPhone 15 Pro Action Action \r\niPhone 15 Pro A17 Pro 3nm CPU 16 10% 6 GPU 20% iPhone 15 Pro 3A\r\niPhone 15 Pro 48MP 2… [+135 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Smzdm.com"
+            },
+            "author": null,
+            "title": "Apple 苹果 MacBook Pro M3版 14英寸笔记本电脑（M3、16GB、512GB）教育优惠版 12749元（需用券）",
+            "description": "Apple 苹果 MacBook Pro M3版 14英寸笔记本电脑（M3、16GB、512GB）教育优惠版 12749元（需用券）,什么值得买甄选出京东优惠促销商品,包括Apple/苹果报价、多少钱等信息,认真生活,好好花钱就上什么值得买。",
+            "url": "https://www.smzdm.com/p/110107956/",
+            "urlToImage": "https://qny.smzdm.com/202402/02/65bcbaf8e0f0c989.jpg_d250.jpg",
+            "publishedAt": "20240420T05:10:42Z",
+            "content": "MacBook Pro M3M3 3nm 250 10 M1 65% M3 8 4 4 M1 35% 24GB \r\nM3 Apple Mac M1 2.5 M1 30% 50% M1 60% AV1 M3 Mac app M1 2.5 Mac app M3 Apple M3M3 Pro M3 Max ML M1 60% AI/ML M3 H.264HEVCProRes ProRes RAW AV… [+180 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Smzdm.com"
+            },
+            "author": null,
+            "title": "百亿补贴：Apple 苹果 iPhone 15 Pro 5G手机 6348元（需用券）",
+            "description": "拼多多此款目前活动售价6548元，下单领取满200元减200元优惠券，实付低至6348元，近期好价。叠加优惠券：满200元减200元",
+            "url": "https://www.smzdm.com/p/110084576/",
+            "urlToImage": "https://qny.smzdm.com/202309/13/6500b101c43396167.png_d250.jpg",
+            "publishedAt": "20240420T02:51:03Z",
+            "content": "iPhone 15 Pro 6.1 ProMotion Super Retina XDR 120Hz iOS 17 187 \r\niPhone 15 Pro Action Action \r\niPhone 15 Pro A17 Pro 3nm CPU 16 10% 6 GPU 20% iPhone 15 Pro 3A\r\niPhone 15 Pro 48MP 242835mmiPhone 15 Pro… [+106 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Smzdm.com"
+            },
+            "author": null,
+            "title": "PLUS会员：Apple 苹果 2022款 M2 芯片版 13.6英寸 轻薄本 深空灰色（M2、8GB、256GB SSD、 6949.01元包邮（双重优惠）",
+            "description": "京东此款目前活动售价9999元，下单领取满7000减2500元优惠券，plus参与立减49.99元、以旧换新（旧机满500元）补贴500元优惠活动，实付低至6949.01元，近期好价。叠加活动：立减49.99元、立减500元叠加优惠...",
+            "url": "https://www.smzdm.com/p/110094229/",
+            "urlToImage": "https://qny.smzdm.com/202404/20/66238ea6fa3a29487.jpg_d250.jpg",
+            "publishedAt": "20240420T09:50:51Z",
+            "content": "2022MacBook Air13.6 Liquid 500 25%MacBook Air MacBook Air \r\nM2 M M2 8 10 M2 100GB/s 24GB ProRes M2 4K 8K \r\n M2 MacBook Air 11.3 1.22 20% M2 MacBook Air \r\nMagSafe MacBook Air 2 3.5 ID"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "JDN"
+            },
+            "author": "Hugo Franceschi",
+            "title": "Ces grandes banques françaises n'auront bientôt plus le droit de facturer ces frais bancaires à leurs clients",
+            "description": "L'Union Européenne contraint les grandes banques françaises à respecter un nouveau règlement. A la clef : des frais bancaires en moins pour les clients.",
+            "url": "https://www.journaldunet.com/patrimoine/financespersonnelles/1529851hf1finfraisbancairesvirement/",
+            "urlToImage": "https://img0.journaldunet.com/vKyZEzRoa_mhjemxKdmvVviw8TI=/1500x/smart/b1a2316c0ad740cd957052b20c8f90b2/ccmcmsjdn/39501941.jpg",
+            "publishedAt": "20240420T04:50:04Z",
+            "content": "L'Union Européenne contraint les grandes banques françaises à respecter un nouveau règlement. A la clef : des frais bancaires en moins pour les clients. \r\nEffectuer un paiement sur Internet, faire un… [+2590 chars]"
+        }
+    ]
+}
